@@ -1,5 +1,5 @@
 ![ZENZOLogo](https://i.imgur.com/fI2tHA8.png)
-# ZENZO Masternode Setup Guide (Windows + Ubuntu 16.04)
+# ZENZO Masternode Setup Guide (Windows + Ubuntu)
 
 ###### In this guide, you will learn how to set up a ZENZO(ZNZ) Masternode on a Linux server(Ubuntu 16.04) with hosting from VULTR. 
 ***
