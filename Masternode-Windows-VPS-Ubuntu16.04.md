@@ -1,12 +1,15 @@
 ![ZENZOLogo](https://i.imgur.com/fI2tHA8.png)
 # ZENZO Masternode Setup Guide (Windows + Ubuntu)
 
-###### In this guide, you will learn how to set up a ZENZO(ZNZ) Masternode on a Linux server(Ubuntu 16.04) with hosting from VULTR. 
+###### In this guide, you will learn how to set up a ZENZO(ZNZ) Masternode on a Linux server(Ubuntu). 
 ***
 ## Requirements
 1) **ZENZO/ZNZ Windows Local [Wallet](https://github.com/Zenzo-Ecosystem/ZENZO-Core/releases)**
-2) **15,000 ZNZ Coins**
-3) **A [VULTR](https://www.vultr.com/?ref=7517156) VPS running Linux with Ubuntu 16.04 OS installed**
+2) **15,000 ZNZ Coins on your Windows Local Wallet**
+3) **A VPS or computer running Linux with Ubuntu OS server installed with minimum :
+1 CPU
+2 GIB Memory 
+5 GiB Bootdisk size**
 4) **An SSH Client ([Bitvise](https://www.bitvise.com/ssh-client-download)**)
 ***
 ## Contents
